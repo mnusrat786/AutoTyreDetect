@@ -1,9 +1,9 @@
-# 🚗 AutoTyreDetect 🛞  
+# AutoTyreDetect 
 A **YOLOv5-based Tyre Detection** model trained on a custom dataset.
 
 ---
 
-## 📌 1️⃣ Setup Instructions
+## 1️⃣ Setup Instructions
 
 ### 🔹 **Step 1: Clone the Repository**
 First, download the repository:
